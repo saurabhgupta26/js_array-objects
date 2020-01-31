@@ -5,6 +5,7 @@ var y = "abc";
 var a = x;
 var b = y;
 
+
 // Value of x, y, a, b
 var x = 10;
 var y = "abc";
