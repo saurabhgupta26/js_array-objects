@@ -8,7 +8,7 @@ let user = { }
 
 // 2. Add a key of `user name` and a value of `Black Panther` to that object.
 ```js 
-user ["username"]= "Black Panther";
+user["username"]= "Black Panther";
 ```
 
 // 3. Using `console.log` log the value of `user name` key from the user object.
